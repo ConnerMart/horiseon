@@ -1,4 +1,4 @@
-# Horiseon SEO
+# Horiseon SEO (Module 1 Challenge)
 
 ## Description
 
