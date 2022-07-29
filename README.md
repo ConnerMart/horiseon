@@ -4,8 +4,12 @@
 
 A homepage for Horizon SEO to showcase its products and services.
 
+-Refactored code by updating to semantic HTML and consolidating CSS selectors.
+-Fixed broken link.
+-Added alt text to images.
 
-![alt text](./assets/images/screenshot.png)
+
+![Horiseon page screenshot](./assets/images/screenshot.png)
 
 ## Link
 
